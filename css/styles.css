@@ -1,0 +1,22 @@
+body {
+    background-color:#FFFBF5;
+}
+
+hr {
+    border-style: none;
+   border-top: 10px dotted #DAE2B6; 
+   width: 5%  
+}
+
+h1 {
+    color: #86A3B8;
+    font-family: Georgia;
+}
+
+h3 {
+    color: #86A3B8;
+}
+
+img {
+    height: 200px;
+}
