@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Xuechun Ji</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="top-container">
+        <img class="top-cloud" src="images/cloud.png" alt="cloud-img">
+        <h1>I'm Xuechun.</h1>
+        <h2>a <span class="pro">pro</span>grammer.</h2>
+        <img class="bottom-cloud" src="images/cloud.png" alt="cloud-img">
+        <img src="images/mountain.png" alt="mountain-img">
+        </div>
+
+        <div class="middle-container">
+            <div class="profile">
+              <img class="Ji-image" src="images/Ji.png" alt="Ji profile picture">
+              <h2>Hello.</h2>
+              <p class="intro">I'm a web designer/developer based in United Kingdom. I have a passion for web design and love to create for web.</p>
+            </div>
+            <hr>
+            <div class="skills">
+              <h2>My Skills.</h2>
+              <div class="skill-row">
+                <img class="code-img" src="images/code.png" alt="code-img">
+                <h3>Design & Development</h3>
+                <p class="code-skill-description">I started learning to code after I graduated from university. Overtime, I have gained a wealth of experience designing and developing websites.</p>
+              </div>
+              <div class="skill-row">
+                <img class="controller-img" src="images/controller.png" alt="controller-img">
+                <h3>Game Challenge</h3>
+                <p class="controller-skill-description">Lorem ipsum dolor sit amet, mauris sed consectetuer. Etiam et eu, bibendum interdum, lacus quis mauris. Curabitur wisi, quisque vel eu, rutrum nam.</p>
+              </div>
+            </div>
+            <hr> 
+            <div class="contact-me">
+              <h2>Get In Touch</h2>
+              <h3>If you love hot wings as much as I do.</h3>
+              <p class="contact-message">Lorem ipsum dolor sit amet, in quis, aenean amet. Phasellus sodales, tellus donec dui, ornare erat.</p>
+              <a class="btn" href="luandun1018@gmail.com">CONTACT ME</a>
+            </div>
+          </div>
+          
+          
+          <div class="bottom-container">
+            <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+            <a class="footer-link" href="https://twitter.com/">Twitter</a>
+            <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+            <p class="copyright">© Xuechun Ji</p>
+          </div>
+          
+
+
+</body>
+</html>
